@@ -29,7 +29,7 @@ Use the following steps to deploy a Machine Learning model on Heroku
 - Deploy the Model
 - Web App is ready
 
- ## ** AWS Deployment**
+ ## AWS Deployment for a Machine Learning Model
 
   - Run Model and check in Local
   - Create an AWS account
