@@ -1,5 +1,5 @@
 # <font color="maroon"> Heroku Deployment
-$${\color{red}Heroku Deployment}$$
+
 Deploying a simple Linear Regression Model on Heroku. Heroku is a cloud platform as a service (PaaS) that allows developers to deploy, manage, and scale web applications and services easily. It provides a platform where you can focus on writing code without worrying about infrastructure management.
 
 ## To deploy an application on Heroku, you'll typically need to:
@@ -16,7 +16,7 @@ Deploying a simple Linear Regression Model on Heroku. Heroku is a cloud platform
 
 
 **Heroku Deployment**
-
+> [!NOTE] 
 Use the following steps to deploy a Machine Learning model on Heroku
 - Train your Model (`model.py`) 
 - Create a Web App using Flask (`app.py`) 
