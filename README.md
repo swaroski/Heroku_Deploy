@@ -1,7 +1,7 @@
-# Heroku_Deploy
+# Heroku Deployment
 Deploying a simple Linear Regression Model on Heroku. Heroku is a cloud platform as a service (PaaS) that allows developers to deploy, manage, and scale web applications and services easily. It provides a platform where you can focus on writing code without worrying about infrastructure management.
 
-To deploy an application on Heroku, you'll typically need to:
+## To deploy an application on Heroku, you'll typically need to:
 
 - Create a Heroku account.
 - Install the Heroku Command Line Interface (CLI).
