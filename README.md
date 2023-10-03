@@ -17,6 +17,7 @@ Deploying a simple Linear Regression Model on Heroku. Heroku is a cloud platform
 
 **Heroku Deployment**
 >
+
 > [!NOTE] 
 Use the following steps to deploy a Machine Learning model on Heroku
 - Train your Model (`model.py`) 
