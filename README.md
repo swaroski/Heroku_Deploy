@@ -1,18 +1,18 @@
 # <font color="maroon"> Heroku Deployment
-#f03c15 text
+
 Deploying a simple Linear Regression Model on Heroku. Heroku is a cloud platform as a service (PaaS) that allows developers to deploy, manage, and scale web applications and services easily. It provides a platform where you can focus on writing code without worrying about infrastructure management.
 
 ## To deploy an application on Heroku, you'll typically need to:
  > 
-- Create a Heroku account.
-- Install the Heroku Command Line Interface (CLI).
-- Log in to your Heroku account using the CLI.
-- Create a new Heroku app with a unique name.
-- Set up your Git repository and commit your code.
-- Add a Heroku remote to your Git repository.
-- Configure any necessary environment variables.
-- Push your code to Heroku to deploy your app.
-- Open your app in a web browser or access it programmatically.
+- Create a Heroku account
+- Install the Heroku Command Line Interface (CLI)
+- Log in to your Heroku account using the CLI
+- Create a new Heroku app with a unique name
+- Set up your Git repository and commit your code
+- Add a Heroku remote to your Git repository
+- Configure any necessary environment variables
+- Push your code to Heroku to deploy your app
+- Open your app in a web browser or access it programmatically
 
 
 **Heroku Deployment**
@@ -28,5 +28,26 @@ Use the following steps to deploy a Machine Learning model on Heroku
 - Link or connect your Github account to Heroku
 - Deploy the Model
 - Web App is ready
+
+  ** AWS Deployment**
+
+  - Run Model and check in Local
+  - Create an AWS account
+  - Create EC2 Instance
+  - Download Putty and Putty gen
+  - Generate private key with Putty gen
+  - Download Winscp
+  - Update the port in Flask Code 
+  - Install the libraries by connecting through putty
+  - Run `app.py`
+  - Verify the web URL
+ 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
