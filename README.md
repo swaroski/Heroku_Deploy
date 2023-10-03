@@ -20,6 +20,7 @@ Use the following steps to deploy a Machine Learning model on Heroku
 - Create a Web App using Flask (`app.py`) 
 - Commit your code to Github
 - Create an Account on Heroku
+- Create a Procfile (`Procfile`) 
 - Link or connect your Github account to Heroku
 - Deploy the Model
 - Web App is ready
