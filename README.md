@@ -25,3 +25,11 @@ Use the following steps to deploy a Machine Learning model on Heroku
 - Link or connect your Github account to Heroku
 - Deploy the Model
 - Web App is ready
+
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
