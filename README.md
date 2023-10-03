@@ -16,8 +16,8 @@ To deploy an application on Heroku, you'll typically need to:
 
 **Heroku Deployment**
 Use the following steps to deploy a Machine Learning model on Heroku
-- Train your Model 
-- Create a Web App using Flask
+- Train your Model (`model.py`) 
+- Create a Web App using Flask (`app.py`) 
 - Commit your code to Github
 - Create an Account on Heroku
 - Link or connect your Github account to Heroku
